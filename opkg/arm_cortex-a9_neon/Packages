@@ -1,0 +1,12 @@
+Package: meshtown
+Version: 0.3.96-r1
+Section: net
+Architecture: arm_cortex-a9_neon
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown
+Installed-Size: 6856752
+Filename: meshtown_0.3.96-r1_arm_cortex-a9_neon.ipk
+Size: 3403215
+SHA256sum: d4a750488ec5a6d7a681d21b420ea665e83d3420c32b58d54aaf3fb4d6925398
+Description: Mesh Town node: private mesh network (static binary)
