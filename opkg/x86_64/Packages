@@ -1,0 +1,12 @@
+Package: meshtown
+Version: 0.3.225-r1
+Section: net
+Architecture: x86_64
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown-dist
+Installed-Size: 7890476
+Filename: meshtown_0.3.225-r1_x86_64.ipk
+Size: 3771707
+SHA256sum: fd4462dc8e80b9aabc95a54255f1d713637a2fcfe69e6ef9a59c4a90ff747c1a
+Description: Mesh Town node: private mesh network (static binary)
