@@ -1,0 +1,12 @@
+Package: meshtown
+Version: 0.3.304-r1
+Section: net
+Architecture: aarch64_cortex-a72
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown-dist
+Installed-Size: 6731554
+Filename: meshtown_0.3.304-r1_aarch64_cortex-a72.ipk
+Size: 3748287
+SHA256sum: 69364bcb30370dc95fad2f13b787c19dbdc8931bdf654101d88539e1b9baa677
+Description: Mesh Town node: private mesh network (static binary)
