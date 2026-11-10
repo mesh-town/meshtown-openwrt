@@ -1,0 +1,12 @@
+Package: meshtown
+Version: 0.3.335-r1
+Section: net
+Architecture: mipsel_24kc_24kf
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown-dist
+Installed-Size: 9843922
+Filename: meshtown_0.3.335-r1_mipsel_24kc_24kf.ipk
+Size: 4185416
+SHA256sum: 5cb3885c0d00498a6bfe56a94415513e0b8350dc28570d83c1db3eb978171c47
+Description: Mesh Town node: private mesh network (static binary)
