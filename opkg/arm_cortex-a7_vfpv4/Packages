@@ -1,0 +1,12 @@
+Package: meshtown
+Version: 0.3.368-r1
+Section: net
+Architecture: arm_cortex-a7_vfpv4
+Maintainer: Mesh Town <340663027+mesh-town@users.noreply.github.com>
+License: AGPL-3.0-only
+URL: https://github.com/mesh-town/meshtown-dist
+Installed-Size: 6915294
+Filename: meshtown_0.3.368-r1_arm_cortex-a7_vfpv4.ipk
+Size: 3599130
+SHA256sum: 833e817247b7327eae60037a52bf4e3dc8ec71fa797fcd75902399c0c9eef2cd
+Description: Mesh Town node: private mesh network (static binary)
